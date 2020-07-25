@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+
+.navbar {
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    padding-left: 15px;
+    text-align: center;
+}
+h2 {
+    color: white;
+    padding-left: 15px;
+    text-align: center;
+}
+
+table {
+    background-color: orange;
+}
+
+.table{
+    margin: auto; 
+    width: 90%; 
+    justify-content: center; 
+    padding-left: 35px;
+}
+
+table,
+th,
+td {
+    border: 2px solid white;
+
+}
+
+table th {
+    color: black;
+}
+select{
+    border: none;
+ font-size: 14px;
+ height: 30px;
+ padding: 5px;
+ width: 250px;
+}
+div{
+    text-align: center;
+}
